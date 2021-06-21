@@ -58,7 +58,7 @@ int main(int argc, const char* argv[])
 		}
 	}
 
-	// losowe kolory
+	// generate random colors
 	vector<Scalar> colors;
 	RNG rng;
 	for (int i = 0; i < 500; i++)
